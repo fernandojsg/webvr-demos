@@ -1,6 +1,6 @@
-[submodule "a-blast"]
-	path = a-blast
-	url = https://github.com/aframevr/a-blast.git
-[submodule "a-painter"]
-	path = a-painter
+[submodule "demos/a-painter"]
+	path = demos/a-painter
 	url = https://github.com/aframevr/a-painter.git
+[submodule "demos/a-blast"]
+	path = demos/a-blast
+	url = https://github.com/aframevr/a-blast.git
